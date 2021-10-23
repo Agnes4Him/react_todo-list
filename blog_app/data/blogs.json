@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Amazing stuffs",
+      "body": "I find web development soooo interesting and fun",
+      "author": "Henry",
+      "id": 1
+    },
+    {
+      "title": "My react projects",
+      "body": "Making significant progress with my react projects",
+      "author": "Henry",
+      "id": 2
+    },
+    {
+      "title": "Exercies",
+      "body": "Takes a lot of self motivation to start regular and consistent exercises",
+      "author": "destiny",
+      "id": 3
+    },
+    {
+      "title": "My next learning",
+      "body": "My next learning is going to be...",
+      "author": "melody",
+      "id": 4
+    },
+    {
+      "title": "Web development",
+      "body": "Discover the best approach in learning web development",
+      "author": "shade",
+      "id": 5
+    },
+    {
+      "title": "Hello World!",
+      "body": "Just saying \"Helloooo\"",
+      "author": "moji",
+      "id": 6
+    }
+  ]
+}
